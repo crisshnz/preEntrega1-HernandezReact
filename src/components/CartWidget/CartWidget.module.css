@@ -1,0 +1,10 @@
+.shoppingCart {
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.shoppingCart:hover {
+  color: brown;
+  border: brown 2px solid;
+}

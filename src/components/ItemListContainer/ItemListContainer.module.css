@@ -1,0 +1,11 @@
+.titleContainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.title {
+  color: #fff;
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+}
