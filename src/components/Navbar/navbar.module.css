@@ -22,8 +22,6 @@
   border: #ffffff83 1px solid;
   border-bottom: none;
   border-top: none;
-  justify-content: end;
-  align-items: center;
 }
 
 .navbarButton:hover {
